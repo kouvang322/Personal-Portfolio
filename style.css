@@ -287,6 +287,12 @@ section {
   border-radius: 2rem;
 }
 
+.profile-pic{
+  width: 450px;
+  height: 450px;
+  border-radius: 15rem;
+}
+
 .arrow {
   position: absolute;
   right: -5rem;
@@ -312,6 +318,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  border-radius: 50%;
 }
 
 /* EXPERIENCE SECTION */
