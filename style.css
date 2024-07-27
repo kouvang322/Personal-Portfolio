@@ -407,6 +407,7 @@ article .icon {
 }
 
 .project-img {
+  border: solid 1px grey;
   border-radius: 2rem;
   width: 90%;
   height: 90%;
